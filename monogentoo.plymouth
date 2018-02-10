@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=monogentoo
+Description=Monochrome theme with Gentoo Linux logo and spinner
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/monogentoo
+ScriptFile=/usr/share/plymouth/themes/monogentoo/monogentoo.script
